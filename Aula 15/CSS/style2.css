@@ -1,0 +1,196 @@
+@import url('https://fonts.googleapis.com/css2?family=Milonga&display=swap');
+
+body{
+  font-family: 'Milonga', cursive;
+  background-image: linear-gradient(to bottom, rgb(150,43,226) 35%, cyan);
+}
+
+.container{
+  width: 100%;
+  height: 1100px;
+  background-image: linear-gradient(to bottom, rgb(150,43,226) 30%, cyan);
+  z-index: 4;
+}
+#menu{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  background-color: aliceblue;
+  height: 80px;
+  margin-left: -10px;
+  margin-right: -20px;
+  margin-top: -10px;
+}
+#txtBusca{
+  background-color:#ffffff;
+  border:solid 2px #000000;
+  border-radius:10px;
+  position: relative;
+  float:left;
+  background-color:transparent;
+  padding-left:5px;
+  font-size:18px;
+  height:20px;
+  width:900px;
+}
+#img{
+  width: 50px;
+}
+#img1{
+padding-top: 10px;
+
+width: 200px;
+}
+#img2{
+  width: 50px;
+}
+#img3{
+  width: 50px;
+}
+
+#titulo{
+  font-size: 300%;
+  margin-left: 500px;
+  margin-top:-150px;
+ 
+}
+#subtitulo{
+  color:aliceblue;
+  margin-left: 500px;
+  margin-top: -35px;
+  font-size: 120%;
+}
+
+.botoes{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+
+}
+
+#s, #c,#a, #l{
+  background-color: rgb(41, 234, 234);
+  border-radius: 15px;
+  margin-top: 0px;
+  width: 200px;
+  height: 30px;
+  text-align: center;
+  color: black;
+}
+#lupa{
+  width: 50px;
+}
+#linha-horizontal {
+  width: 1350px;
+  border: 1px solid rgb(41, 234, 234);
+  margin-top: 100px;
+  margin-left: 60px;
+}
+.login{
+    margin-top: 50px;
+    margin-left: 450px;
+    background-color:rgba(255, 255, 255, 0.897);
+    width: 500px;
+    height: 450px;
+    border-radius: 15px;
+    z-index: 8;
+}
+#Login{
+  margin-left: 200px;
+    color: black;
+    font-size: 40px;
+  
+}
+#form{
+  display:flex;
+  flex-direction: column;
+  margin-left: 50px;
+}
+#email,#senha{
+  background-color:#6946e6;
+  border:solid 2px #3645b5;
+  border-radius:10px;
+  position: relative;
+  float:left;
+  padding-left:5px;
+  font-size:18px;
+  height:20px;
+  width:400px;
+  margin-top: 20px;
+}
+#Se{
+  margin-top: 20px;
+}
+.cadastro{
+  text-align: center;
+}
+#simbolos{
+display: flex;
+justify-content: space-around;
+flex-direction: row;
+}
+#help{
+  text-align: center;
+}
+#tr{
+  width: 0;
+  height: 30px;
+  border-left: 150px solid transparent;
+  border-right: 150px solid transparent;
+  border-bottom: 300px solid rgba(230, 28, 28, 0.508);
+  position:relative;
+  margin-top: -500px;
+  margin-left: 10px;
+  z-index: 1;
+}
+#ci{
+  border-radius: 50%;
+  width: 280px;
+  height: 280px;
+  background-image: linear-gradient(to bottom, rgba(231, 255, 75, 0.715) 35%, rgba(253, 255, 208, 0.71));
+  margin-left: 170px;
+  margin-top: -200px;
+  position:relative;
+  z-index:1;
+}
+#cr{
+  border-radius: 50%;
+  width: 300px;
+  height: 300px;
+  background-image: linear-gradient(to bottom, rgb(37, 195, 244) 35%, rgb(140, 177, 238));
+  margin-left: 1000px;
+  margin-top: -250px;
+  position: absolute;
+  z-index:1;
+}
+#qu{
+  width:250px;
+  height: 250px;
+  background-image: linear-gradient(to bottom, rgba(0, 194, 61, 0.734) 35%, rgba(98, 255, 255, 0.696));
+  margin-top: -50px;
+  margin-left: 1150px;
+  position: absolute;
+  z-index: 2;
+}
+
+#palavras{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+#t, #se, #av, #f{
+  margin-top: 200px;
+  width: 200px;
+  height: 30px;
+  text-align: center;
+  z-index: 3;
+}
+#linha-horizontal2{
+  width: 1350px;
+  border: 1px solid rgb(132, 0, 185);
+  margin-left: 60px;
+  z-index: 3;
+}

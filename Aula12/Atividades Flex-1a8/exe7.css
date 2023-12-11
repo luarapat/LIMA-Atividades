@@ -1,0 +1,51 @@
+body{
+    background-color: black;
+ }
+ .titulo{
+     text-align: center;
+     color: rgb(196, 196, 120);
+     font-size: large;
+ }
+ 
+ img{
+     width: 200px;
+     height: 300px;
+     display:flex;
+     justify-content: center;
+ }
+ 
+ .img1{
+     position: relative;
+     right: -10%;
+ }
+ 
+ .img2{
+     position: relative;
+     right: -30%;
+     bottom:300px;
+ }
+ .img3{
+     position: relative;
+     right: -50%;
+     bottom:600px;
+ }
+ .img4{
+     position: relative;
+     right: -70%;
+     bottom:900px
+ }
+ .video{
+     height: 300px;
+     width: 600px;
+     position: relative;
+     left: 30%;
+     bottom: 800px;
+     border: solid white;
+ }
+ .assistir{
+     text-align: center;
+     color:rgb(196, 196, 120);
+     position:relative;
+     bottom: 800px;
+ 
+ }

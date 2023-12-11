@@ -1,0 +1,23 @@
+<html>
+<head>
+<meta charset="UTF-8">
+</head>
+<body>
+<h1> <center> Receita de nhoque de batata </center> </h1>
+<center><img src="Imagens/nhoque.jfif" alt="image"height="200" width=300"></center>
+<h2>&nbsp;&nbsp;&nbsp;&nbsp; Ingredientes <b></h2>
+<ul>
+<li>6 batatas médias
+<li> 1 xícara de farinha de trigo
+<li> sal a gosto
+</ul>
+
+<h2> Modo de preparo </h2>
+<p> Cozinhe as batatas, em água, até que estejam macias.
+Descasque-as e passe pelo espremedor ainda quentes.
+Vá acrescentando a farinha aos poucos e o sal, amasse bem.
+Coloque o bacon, ainda quente, sobre o macarrão e sirva.</p>
+</body>
+
+
+</html>

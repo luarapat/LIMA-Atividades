@@ -1,0 +1,25 @@
+.titulo{
+    border: outset 2px rgb(64, 181, 231);
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 30px;
+    width: 800px;
+    text-decoration: none;
+    box-shadow: inset;
+    margin-left: 350px;
+}
+
+.body{
+    border:dotted 2px rgb(255, 255, 255);
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 30px;
+    width: 800px;
+    text-decoration: none;
+    box-shadow: inset;
+    margin-left: 350px;
+    height: 400px;
+}
+.body2{
+    background-color: black;
+}

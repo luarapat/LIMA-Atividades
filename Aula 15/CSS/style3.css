@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Milonga&display=swap');
+
+body{
+  font-family: 'Milonga', cursive;
+  background-image: linear-gradient(to bottom, rgb(150,43,226) 35%, cyan);
+}
+
+.container{
+  width: 100%;
+  height: 1100px;
+  background-image: linear-gradient(to bottom, rgb(150,43,226) 30%, cyan);
+  z-index: 4;
+}
+#menu{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  background-color: aliceblue;
+  height: 80px;
+  margin-left: -10px;
+  margin-right: -20px;
+  margin-top: -10px;
+}
+#txtBusca{
+  background-color:#ffffff;
+  border:solid 2px #000000;
+  border-radius:10px;
+  position: relative;
+  float:left;
+  background-color:transparent;
+  padding-left:5px;
+  font-size:18px;
+  height:20px;
+  width:900px;
+}
+#img{
+  width: 50px;
+}
+#img1{
+padding-top: 10px;
+
+width: 200px;
+}
+#img2{
+  width: 50px;
+}
+#img3{
+  width: 50px;
+}
+
+#titulo{
+  font-size: 300%;
+  margin-left: 500px;
+  margin-top:-150px;
+ 
+}
+#subtitulo{
+  color:aliceblue;
+  margin-left: 500px;
+  margin-top: -35px;
+  font-size: 120%;
+}
+
+.botoes{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+
+}
+
+#s, #c,#a, #l{
+  background-color: rgb(41, 234, 234);
+  border-radius: 15px;
+  margin-top: 0px;
+  width: 200px;
+  height: 30px;
+  text-align: center;
+  color: black;
+}
+#lupa{
+  width: 50px;
+}
+#linha-horizontal {
+  width: 1350px;
+  border: 1px solid rgb(41, 234, 234);
+  margin-top: 100px;
+  margin-left: 60px;
+}
+#tr{
+    width: 0;
+    height: 30px;
+    border-left: 150px solid transparent;
+    border-right: 150px solid transparent;
+    border-bottom: 300px solid rgba(230, 28, 28, 0.508);
+    position:relative;
+    margin-top: -50px;
+    margin-left: 10px;
+    z-index: 1;
+}
+#ajuda{
+    display: flex;
+    justify-content: center;
+    margin-top: -250px;
+    font-size: 30px;
+}
+#caixa{
+    width: 1300px;
+    height: 350px;
+    background-color: white;
+    border-radius: 15px;
+    z-index: 4;
+    position:absolute;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+#linha{
+    width: 1200px;
+    border: 1px solid rgb(128, 41, 234);
+}
+#corpo{
+    margin-left: 50px;
+    font-size: 20px;
+}
+#cr{
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    background-image: linear-gradient(to bottom, rgb(37, 195, 244) 35%, rgb(140, 177, 238));
+    margin-left: 1190px;
+    margin-top: 0px;
+    position: absolute;
+    z-index:1;
+  }
+  #qu{
+    width:200px;
+    height: 200px;
+    background-image: linear-gradient(to bottom, rgba(0, 194, 61, 0.734) 35%, rgba(98, 255, 255, 0.696));
+    margin-top: 150px;
+    margin-left: 1300px;
+    position: absolute;
+    z-index: 2;
+  }
+  #palavras{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+  }
+  #t, #se, #av, #f{
+    margin-top: 500px;
+    width: 200px;
+    height: 30px;
+    text-align: center;
+    z-index: 3;
+  }
+  #linha-horizontal2{
+    width: 1350px;
+    border: 1px solid rgb(132, 0, 185);
+    margin-left: 60px;
+    position:absolute;
+    z-index: 3;
+  }

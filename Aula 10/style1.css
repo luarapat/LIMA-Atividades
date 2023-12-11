@@ -1,0 +1,12 @@
+body{
+    font-family: Arial;
+}
+
+p{
+    background-color: rgb(88, 205, 255);
+    color:rgb(255, 255, 255)
+}
+
+h1,h2{
+    color:rgb(69, 90, 95)
+}

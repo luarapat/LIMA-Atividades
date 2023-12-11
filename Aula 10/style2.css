@@ -1,0 +1,8 @@
+#cabeçalho{
+    text-align:center;
+    color:#ffffff;
+     background-size: 50% 50%;}
+    body{
+        background-image:url("imagens/dnv.webp");
+        background-image: no-repeat;
+    }

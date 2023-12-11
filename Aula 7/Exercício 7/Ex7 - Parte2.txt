@@ -1,0 +1,26 @@
+<html>
+<head>
+<meta charset="UTF-8">
+<title> receitas </title>
+
+<body>
+<h1> <center> Restaurante da Luara</center> </h1>
+<p> <center> Cardápio </center> <p>
+<table>
+<tr> <!--primeira linha da tabela-->
+<td> </td>
+<th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="receita_ 1.html"target="_blank"><img src="Imagens/lasanha3.jpeg" alt="image"height="200" width=300"></a></th>
+<th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="receita_2.html"target="_blank"><img src="Imagens/vai.jfif"alt="image"height="200" width="300"></a> </th>
+<th> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="Receita_3.html"target="_"blank"><img src="imagens/macarrão.jfif" alt="image"height="200" width="300"></a> </th>
+<th> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href= "Receita_ 4.html"target="_blank"> <img src="imagens/nhoque.jfif" alt="image"height="200" width="300"></a> </th>
+</tr>
+<tr> <!--segunda linha da tabela-->
+<td> </td>
+<th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="receita_ 1.html">Lasanha de carne</a> </th>
+<th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="receita_2.html"> Risoto de frango</a></th>
+<th> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="Receita_3.html"> Macarrão Carbonara</a></th>
+<th> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="Receita_ 4.html"> Nhoque de batata</a></th>
+
+</body>
+
+</html>

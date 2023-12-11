@@ -1,0 +1,32 @@
+<html>
+<head>
+<meta charset="UTF-8">
+</head>
+<body>
+<h1> <center> Receita de Macarrão Carbonara </center> </h1>
+<center><img src="Imagens/macarrão.jfif" alt="image"height="200" width=300"></center>
+<h2>&nbsp;&nbsp;&nbsp;&nbsp; Ingredientes <b></h2>
+<ul>
+<li>bacon picado a gosto
+<li>queijo ralado a gosto
+<li>3 ovos
+<li>sal
+<li>pimenta a gosto
+<li>macarrao de sua escolha
+<li>creme de leite
+</ul>
+
+<h2> Modo de preparo </h2>
+<p> Frite bem o bacon, até ficar crocante (pode-se adicionar salame picado).
+Coloque o macarrão para cozinhar em água e sal.
+No refratário onde será servido o macarrão, bata bem os ovos com um garfo.
+Tempere com sal e pimenta a gosto, e junte o queijo ralado, também a gosto.
+Quando o macarrão estiver pronto, escorra e coloque (bem quente) sobre a mistura
+ de ovos, misture bem.
+O calor da massa cozinha os ovos.
+
+Coloque o bacon, ainda quente, sobre o macarrão e sirva.</p>
+</body>
+
+
+</html>

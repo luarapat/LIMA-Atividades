@@ -1,0 +1,66 @@
+.cabeçalho{
+    position: fixed;
+    left:0;
+    top:0;
+    background-color: aliceblue;
+    border: 3px solid black;
+    text-align: center;
+    margin-top: 0px;
+    width: 1600px;
+    height: 90px;
+    padding-top: 50px;
+}
+.menu{
+    text-align: center;
+    position: fixed;
+    left: -8px;
+    top: 123px;
+    margin-left: 0px;
+    background-color: aliceblue;
+    height: 607px;
+    width: 100px;
+    border: 3px solid black;
+}
+.img{
+    float:right;
+    height:800px;
+    width:1500px;
+    
+}
+.rodape{
+    position: fixed;
+    left:0px;
+    bottom:0px;
+    margin-bottom:0px;
+    background-color: aliceblue;
+    border: 3px solid black;
+    height: 90px;
+    width: 100%;
+    text-align: center;
+}
+
+.vertical-menu{
+    text-align: center;
+    position: fixed;
+    left: -8px;
+    top: 190 px;
+    margin-left: 0px;
+    background-color: aliceblue;
+    height: 500px;
+    width: 100px;
+    border: 3px solid black;
+}
+.vertical-menu a {
+    background-color: rgb(210, 113, 16);
+    color:rgb(255, 255, 255);
+    display:block;
+    padding:12px;
+    text-decoration: none;
+}
+.vertical-menu a:hover{
+    background-color: rgb(177, 240, 248);
+}
+.vertical-menu a.active{
+background-color: rgb(213, 20, 168);
+color:aliceblue;
+}

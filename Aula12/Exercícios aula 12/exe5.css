@@ -1,0 +1,10 @@
+body{
+    background-image: url(cac.avif);
+    background-size: cover;   
+}
+.texto{
+color: blanchedalmond;
+float: none;
+margin-top: 200px;
+margin-left: 650px;
+}

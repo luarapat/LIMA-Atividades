@@ -1,0 +1,14 @@
+p{ font-size: 12pt;}
+p::first-line{color:blue; font-variant: small-caps;}
+
+
+h1::before{content:url(imagens/oioi.jfif);}
+h1::after{content:url(imagens/oioi.jfif);}
+
+p::selection{color:#ff0080; background:yellow;}
+
+div{
+    background-image: url(imagens/oioi.jfif);
+    background-repeat: no-repeat;
+    background-position: right top;
+}

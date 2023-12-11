@@ -1,0 +1,7 @@
+body{
+    width: 80%;
+    border: 2px solid red;
+}
+
+p.margem1 {margin: 2cm 4cm 3cm 4cm;}
+p.margem2 { margin:10%}
